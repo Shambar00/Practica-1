@@ -20,22 +20,24 @@
    - ![изображение](https://github.com/user-attachments/assets/2fae6203-a286-44c8-9722-e5c898ae554e)
    - ![изображение](https://github.com/user-attachments/assets/8d86a794-a6f3-4812-9bb2-bb0795f85e36)
    - ![tempsnip](https://github.com/user-attachments/assets/c0a259f4-9bd9-4599-85eb-d692460cde24)
-   - 
+     
 
 ### Процесс установки
  **Запуск установки:**
    - Виртуальная машина была запущена, и началась установка Ubuntu с виртуального CD/DVD диска.
-   - ![Alt text](<Без имени-7.png>)
-   - ![Alt text](<Без имени-8.png>)
-   - ![Alt text](<Без имени-9.png>)
+   - ![Без имени-7](https://github.com/user-attachments/assets/5e2f5790-dbbe-474d-9777-b8c588698f47)
+   - ![Без имени-8](https://github.com/user-attachments/assets/e1b65c12-63fc-4cac-aa49-d58e8e3538d5)
+   - ![Без имени-9](https://github.com/user-attachments/assets/f9e9fff8-2980-4675-97db-1c84d504d9fd)
+
 
  **Установка Ubuntu:**
    - Следуя инструкциям на экране, была успешно завершена установка операционной системы на виртуальную машину.
-   - ![Alt text](<Без имени-10.png>)
+   - ![Без имени-10](https://github.com/user-attachments/assets/3505a4de-fc42-470e-9627-b8bd294c96ed)
+
 ### Установка программного обеспечения
  **Использование менеджера пакетов:**
    - Был использован APT (Advanced Package Tool) для установки необходимого программного обеспечения.
-   - ![Alt text](<Без имени-11.png>)
+   - ![Без имени-11](https://github.com/user-attachments/assets/60fc87bd-c1f4-45f6-92b5-f5d20f760fd5)
  **Обновление системы:**
    - Система и установленные пакеты были обновлены до последней версии.
 
